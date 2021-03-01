@@ -1,0 +1,12 @@
+{
+  "name": "terminal.app-dark-mode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mattdanielmurphy/terminal.app-dark-mode.git",
+  "author": "Matthew Daniel Murphy <matt@mattmurphy.ca>",
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {
+    "compile": "scripts/compile.sh"
+  }
+}
