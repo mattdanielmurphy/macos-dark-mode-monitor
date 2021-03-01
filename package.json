@@ -6,7 +6,5 @@
   "author": "Matthew Daniel Murphy <matt@mattmurphy.ca>",
   "license": "MIT",
   "dependencies": {},
-  "scripts": {
-    "compile": "scripts/compile.sh"
-  }
+  "bin": "./index.js"
 }

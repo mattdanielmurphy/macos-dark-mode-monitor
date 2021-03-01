@@ -1,5 +1,5 @@
-# macOS Dark Mode Monitor
+# Terminal.app Dark Mode
 
-## Development
+Switches themes automatically.
 
-- Run `yarn compile` to compile `index.js` to `/dist`
+Not really used now in favour of VSCode's built-in terminal, whose colours more closely match those of my current VSCode theme.
